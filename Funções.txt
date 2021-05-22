@@ -1,0 +1,14 @@
+Teclas:
+   "A" = Bota/Tira a grade;
+   "C" = Define o robô à 0°;
+   "<" = Gira o robô para a esquerda +Graus;
+   ">" = Gira o robô para a esquerda -Graus;
+   "Z" = Volta um clique Ctrl+Z;
+   "L" = Desenha o trajeto do robô;
+   "R" = Recolocar o robô (variáveis são apagadas);
+
+Passo à passo:
+   Introduzir o tamanho do robô;
+   Colocar o robô em 0°;
+   Clicar na tela referente à posição;
+   Verificar os valores no Terminal.
